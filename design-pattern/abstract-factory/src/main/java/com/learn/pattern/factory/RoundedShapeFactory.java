@@ -5,8 +5,8 @@ import com.learn.pattern.modals.RoundedRectangle;
 import com.learn.pattern.modals.RoundedSquare;
 
 /**
- * @author Kaustubh Dongare
- * @version $Id: RoundedShapeFactory.java, v 0.1 2023-02-27 04:01 PM Kaustubh Dongare Exp $$
+ * @author Dhruv Maheshwari
+ * @version $Id: RoundedShapeFactory.java, v 0.1 2023-02-27 04:01 PM Dhruv Maheshwari Exp $$
  */
 public class RoundedShapeFactory extends AbstractFactory {
 

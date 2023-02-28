@@ -3,8 +3,8 @@ package com.learn.pattern.modals;
 import com.learn.pattern.interfaces.Shape;
 
 /**
- * @author Kaustubh Dongare
- * @version $Id: RoundedRectangle.java, v 0.1 2023-02-27 03:57 PM Kaustubh Dongare Exp $$
+ * @author Dhruv Maheshwari
+ * @version $Id: RoundedRectangle.java, v 0.1 2023-02-27 03:57 PM Dhruv Maheshwari Exp $$
  */
 public class RoundedRectangle implements Shape {
 
