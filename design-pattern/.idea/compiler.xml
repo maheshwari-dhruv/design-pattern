@@ -11,6 +11,7 @@
         <module name="singleton-pattern" />
         <module name="abstract-factory" />
         <module name="builder-pattern" />
+        <module name="adapter-pattern" />
       </profile>
     </annotationProcessing>
   </component>
