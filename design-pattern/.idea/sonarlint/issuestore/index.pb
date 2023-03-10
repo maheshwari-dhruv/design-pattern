@@ -47,3 +47,16 @@ J
 builder-pattern/Builder.md,6\5\65a48b9d7ddda2fb7723c748b4949214831d0dac
 }
 Mabstract-factory/src/main/java/com/learn/pattern/factory/AbstractFactory.java,c\1\c1f0383089900484d9e340db06173b9be86f9768
+I
+singleton-pattern/pom.xml,2\f\2f2850581ec0406453c764d99b2f67084706d2e5
+I
+factory-method/Factory.md,7\b\7b073c1a6792dfa61a0853b2f47ab35a93e7e31b
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+k
+;singleton-pattern/src/main/java/com/learn/pattern/Main.java,1\4\140632c392c30d479261aa4808eb5dbbeeca0867
+N
+singleton-pattern/Singleton.md,b\7\b71e06a0126e8f9276b4f30e82de2454ef6d5c1e
+p
+@singleton-pattern/src/main/java/com/learn/pattern/Singleton.java,a\6\a69055afcd6ea7af2959770bf1049fe55798b16b
