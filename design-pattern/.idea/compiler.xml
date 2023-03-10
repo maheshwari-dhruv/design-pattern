@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="factory-method" />
         <module name="abstract-factory" />
+        <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
   </component>
